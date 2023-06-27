@@ -1,5 +1,5 @@
 # Regression
-R2 score
+### R2 score
 Linear Regression	0.9752849685403605
 Polynomial regression	0.971018321350494
 KNN	0.9664650904562682
